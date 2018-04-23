@@ -1,0 +1,7 @@
+Print an array that looks like so:
+0 -> James
+1 -> Jill
+2 ->Jane
+3 -> Jack
+by Erik Nordland
+
